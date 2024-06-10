@@ -3,6 +3,7 @@ import { FcGoogle } from "react-icons/fc";
 import { GoogleLogin } from '@react-oauth/google';
 import { IoMailOpenOutline } from "react-icons/io5";
 import { BiSolidLock } from "react-icons/bi";
+import { IoEye } from "react-icons/io5";
 
 import horse from '../Image/horse-removebg-preview.png'
 
@@ -50,9 +51,10 @@ const LoginPage = () => {
      
         <text className="text2"> Password </text> <br />
         <input className="email" type="password" placeholder="Enter Password" /><BiSolidLock className="email-icon"/>
-      
+        <br />
+        <IoEye className="eye"/>
       </form>  
-       <div style={{textAlign:'right',        marginTop:'-15px',
+       <div style={{textAlign:'right',        marginTop:'-45px',
 }}>
        <text className="forgot" style={{
         color: 'navy',
