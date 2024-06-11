@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SignIn-Page/static/css/main.2411eeee.css",
+    "main.js": "/SignIn-Page/static/js/main.61d9d366.js",
+    "static/js/453.9c5d69c4.chunk.js": "/SignIn-Page/static/js/453.9c5d69c4.chunk.js",
+    "static/media/horse-removebg-preview.png": "/SignIn-Page/static/media/horse-removebg-preview.f4f68d0c65919def8f47.png",
+    "index.html": "/SignIn-Page/index.html",
+    "main.2411eeee.css.map": "/SignIn-Page/static/css/main.2411eeee.css.map",
+    "main.61d9d366.js.map": "/SignIn-Page/static/js/main.61d9d366.js.map",
+    "453.9c5d69c4.chunk.js.map": "/SignIn-Page/static/js/453.9c5d69c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2411eeee.css",
+    "static/js/main.61d9d366.js"
+  ]
+}
